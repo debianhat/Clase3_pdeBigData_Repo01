@@ -1,0 +1,6 @@
+*.xls
+*.xls
+*.csv
+*.zip
+*.rar
+*.doc
